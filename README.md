@@ -1,3 +1,3 @@
-Some functions for handling Kuppa Script written by StarPants
+Some functions for handling Kuppa Script, the SM64DS cutscene definition language.
 
-Header files in source\SM64DS_2 and symbols.x are written by Josh65536, but i have added some small stuff to them too
+Also see this [this repo](https://github.com/pants64DS/Misc-SM64DS-Patches).
